@@ -40,8 +40,4 @@ Please verify that the registration form, email address, social profiles, locati
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Select the default branch and the `/ (root)` folder, then save.
 
-GitHub will publish the website at `https://your-username.github.io/your-repository-name/`.
 
-## License
-
-This project is available under the [MIT License](LICENSE). Add a `LICENSE` file if you would like to use it publicly.
