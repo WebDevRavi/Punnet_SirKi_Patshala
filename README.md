@@ -2,7 +2,7 @@
 
 A clean, responsive one-page website for **Puneet Sir Ki Pathshala**, an online and offline learning initiative in Bhopal.
 
-<img src="Capture.JPG" alt="Loading..." width="500" height="600">
+<img src="Capture.JPG" alt="Loading..." width="800" height="300">
 
 ## Highlights
 
